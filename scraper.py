@@ -331,7 +331,8 @@ def generate_playlists(streams, base_dir):
         lines_main.append(f'#EXTVLCOPT:http-referrer={referer}\n')
         lines_main.append(f'#EXTVLCOPT:http-user-agent={user_agent}\n')
         if clearkey:
-            lines_main.append(f'#KODIPROP:inputstream.adaptive.license_type=clearkey\n')
+            lines_main.append(f'#KODIPROP:inputstream=inputstream.adaptive\n')
+            lines_main.append(f'#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n')
             lines_main.append(f'#KODIPROP:inputstream.adaptive.license_key={clearkey}\n')
         lines_main.append(f"{pipe_url}\n\n")
 
