@@ -107,7 +107,9 @@ def resolve_galaxy_channel(ch):
         k = re.search(r'const\s+STREAM_CLEAR_KEYS\s*=\s*(\{.*?\});', html_page)
         if m and m.group(1).strip():
             rel_url = m.group(1).replace(r"\/", "/")
-            full_url = urllib.parse.urljoin("https://nxliv.com", rel_url)
+            # Extract direct SunNXT / Akamai CDN URL
+            m_direct = re.search(r'url=(https://[^\s&"\']+)', rel_url)
+            full_url = m_direct.group(1) if m_direct else urllib.parse.urljoin("https://nxliv.com", rel_url)
             clearkey_str = ""
             if k:
                 try:
@@ -152,7 +154,6 @@ def crawl_category(category_name, category_url):
             
         for post_id, logo, link, title in items:
             clean_title = html.unescape(title).strip()
-            # If BhoomTV has Kollywood Plus, skip it because we replace with dedicated Galaxy channels
             if "Kollywood Plus" in clean_title:
                 continue
             channels.append({
@@ -176,7 +177,6 @@ def resolve_channel_stream(channel):
     name = channel["name"]
     link = channel["link"]
     
-    # 1. Fetch embed from BhoomTV DooPlay API
     api_url = f"{BASE_URL}/wp-json/dooplayer/v2/{post_id}/movie/1"
     embed_url = ""
     for attempt in range(3):
@@ -252,7 +252,7 @@ def resolve_channel_stream(channel):
         except Exception:
             pass
 
-    # Case C: nxliv.com (DASH MPD)
+    # Case C: nxliv.com
     if "nxliv.com" in embed_url:
         try:
             player_html = fetch_url(embed_url, headers={"Referer": "https://bhoomtv.me/"}, timeout=8)
@@ -260,7 +260,8 @@ def resolve_channel_stream(channel):
             k = re.search(r'const\s+STREAM_CLEAR_KEYS\s*=\s*(\{.*?\});', player_html)
             if m:
                 rel_url = m.group(1).replace(r"\/", "/")
-                full_url = urllib.parse.urljoin("https://nxliv.com", rel_url)
+                m_direct = re.search(r'url=(https://[^\s&"\']+)', rel_url)
+                full_url = m_direct.group(1) if m_direct else urllib.parse.urljoin("https://nxliv.com", rel_url)
                 stream_info["stream_url"] = full_url
                 stream_info["referer"] = "https://nxliv.com/"
                 if k:
@@ -300,7 +301,6 @@ def verify_stream_playable(s):
     return False
 
 def generate_playlists(streams, base_dir):
-    # Sort Galaxy channels first at the top, then by Category and Name
     streams.sort(key=lambda x: (0 if x.get("is_galaxy") else 1, x["category"], x["name"]))
 
     m3u_main = os.path.join(base_dir, "bhoomtv-tamil.m3u")
@@ -320,21 +320,29 @@ def generate_playlists(streams, base_dir):
         clearkey = s.get("clearkey", "")
         is_mpd = ".mpd" in url or "/dash/" in url
 
-        # 1. Main Universal Playlist (TiviMate, OTT Navigator, Televizo)
+        # 1. Main Universal Playlist (TiviMate, OTT Navigator)
         inf_main = f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-name="{name}" tvg-logo="{logo}" group-title="{category}"'
         if clearkey:
             inf_main += f' license_type="clearkey" license_key="{clearkey}"'
         inf_main += f',{name}\n'
 
-        pipe_url = f"{url}|Referer={urllib.parse.quote(referer)}&User-Agent={urllib.parse.quote(user_agent)}"
         lines_main.append(inf_main)
-        lines_main.append(f'#EXTVLCOPT:http-referrer={referer}\n')
-        lines_main.append(f'#EXTVLCOPT:http-user-agent={user_agent}\n')
-        if clearkey:
-            lines_main.append(f'#KODIPROP:inputstream=inputstream.adaptive\n')
-            lines_main.append(f'#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey\n')
-            lines_main.append(f'#KODIPROP:inputstream.adaptive.license_key={clearkey}\n')
-        lines_main.append(f"{pipe_url}\n\n")
+        if s.get("is_galaxy"):
+            # Direct SunNXT Akamai CDN stream with ClearKey DRM tags
+            if clearkey:
+                lines_main.append(f'#KODIPROP:inputstream=inputstream.adaptive\n')
+                lines_main.append(f'#KODIPROP:inputstream.adaptive.license_type=clearkey\n')
+                lines_main.append(f'#KODIPROP:inputstream.adaptive.license_key={clearkey}\n')
+            lines_main.append(f"{url}\n\n")
+        else:
+            pipe_url = f"{url}|Referer={urllib.parse.quote(referer)}&User-Agent={urllib.parse.quote(user_agent)}"
+            lines_main.append(f'#EXTVLCOPT:http-referrer={referer}\n')
+            lines_main.append(f'#EXTVLCOPT:http-user-agent={user_agent}\n')
+            if clearkey:
+                lines_main.append(f'#KODIPROP:inputstream=inputstream.adaptive\n')
+                lines_main.append(f'#KODIPROP:inputstream.adaptive.license_type=clearkey\n')
+                lines_main.append(f'#KODIPROP:inputstream.adaptive.license_key={clearkey}\n')
+            lines_main.append(f"{pipe_url}\n\n")
 
         # 2. VLC Playlist (Exclude MPD/DRM streams to keep VLC error-free)
         if not is_mpd:
@@ -355,8 +363,6 @@ def generate_playlists(streams, base_dir):
 
 def main():
     print("=== Starting Bhoom TV IPTV Scraper with Prioritized Galaxy Sun Network ===")
-    
-    # 1. Resolve Prioritized Galaxy Sun Network channels first
     print("\n[Galaxy Network] Resolving prioritized Sun channels...")
     galaxy_streams = []
     for g_ch in SUN_GALAXY_CHANNELS:
@@ -367,7 +373,6 @@ def main():
         else:
             print(f"  [GALAXY FAILED] {g_ch['name']}")
 
-    # 2. Crawl remaining Bhoom TV channels
     all_channels = []
     for cat_name, cat_url in CATEGORIES:
         channels = crawl_category(cat_name, cat_url)
@@ -391,7 +396,6 @@ def main():
             if future.result():
                 playable.append(s)
 
-    # Combine Galaxy Sun channels at the top + verified channels
     total_streams = galaxy_streams + playable
     base_dir = os.path.dirname(os.path.abspath(__file__))
     generate_playlists(total_streams, base_dir)
