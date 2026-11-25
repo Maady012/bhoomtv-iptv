@@ -1,51 +1,39 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="GalaxyComedy" tvg-name="Galaxy Comedy" tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/01/Neon-Kollywood-Plus-Logo-1-185x278.png" group-title="Galaxy Network" license_type="clearkey" license_key="d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c",Galaxy Comedy
-#EXTVLCOPT:http-referrer=https://nxliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
-https://nxliv.com/snxt/proxy.php?url=https://livestream.sunnxt.com/b1865a87b7384835aee1a02038bce2ef/AdithyaTV_IN_index.mpd|Referer=https%3A//nxliv.com/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/122.0.0.0%20Safari/537.36
+https://livestream.sunnxt.com/b1865a87b7384835aee1a02038bce2ef/AdithyaTV_IN_index.mpd
 
 #EXTINF:-1 tvg-id="GalaxyKids" tvg-name="Galaxy Kids" tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/01/Neon-Kollywood-Plus-Logo-1-185x278.png" group-title="Galaxy Network" license_type="clearkey" license_key="05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b",Galaxy Kids
-#EXTVLCOPT:http-referrer=https://nxliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
-https://nxliv.com/snxt/proxy.php?url=https://livestream.sunnxt.com/e3eccb3f250a4ca8826e42914b2322a6/ChuttiTV_IN_index.mpd|Referer=https%3A//nxliv.com/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/122.0.0.0%20Safari/537.36
+https://livestream.sunnxt.com/e3eccb3f250a4ca8826e42914b2322a6/ChuttiTV_IN_index.mpd
 
 #EXTINF:-1 tvg-id="GalaxyLife" tvg-name="Galaxy Life" tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/01/Neon-Kollywood-Plus-Logo-1-185x278.png" group-title="Galaxy Network" license_type="clearkey" license_key="81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992",Galaxy Life
-#EXTVLCOPT:http-referrer=https://nxliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
-https://nxliv.com/snxt/proxy.php?url=https://livestream.sunnxt.com/c7d23c2ad1084c9794498e51158a2158/SunLife_IN_index.mpd|Referer=https%3A//nxliv.com/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/122.0.0.0%20Safari/537.36
+https://livestream.sunnxt.com/c7d23c2ad1084c9794498e51158a2158/SunLife_IN_index.mpd
 
 #EXTINF:-1 tvg-id="GalaxyMovieHD" tvg-name="Galaxy Movie HD" tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/01/Neon-Kollywood-Plus-Logo-1-185x278.png" group-title="Galaxy Network" license_type="clearkey" license_key="351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3",Galaxy Movie HD
-#EXTVLCOPT:http-referrer=https://nxliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
-https://nxliv.com/snxt/proxy.php?url=https://livestream.sunnxt.com/1c406d282d7446349fcc0f4a1b2180d7/KTVHD_P_IN_index.mpd|Referer=https%3A//nxliv.com/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/122.0.0.0%20Safari/537.36
+https://livestream.sunnxt.com/1c406d282d7446349fcc0f4a1b2180d7/KTVHD_P_IN_index.mpd
 
 #EXTINF:-1 tvg-id="GalaxyMusicHD" tvg-name="Galaxy Music HD" tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/01/Neon-Kollywood-Plus-Logo-1-185x278.png" group-title="Galaxy Network" license_type="clearkey" license_key="b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020",Galaxy Music HD
-#EXTVLCOPT:http-referrer=https://nxliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
-https://nxliv.com/snxt/proxy.php?url=https://livestream.sunnxt.com/f6f92acd2b4f4870aabf04b274c69376/SunMusicHD_P_IN_index.mpd|Referer=https%3A//nxliv.com/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/122.0.0.0%20Safari/537.36
+https://livestream.sunnxt.com/f6f92acd2b4f4870aabf04b274c69376/SunMusicHD_P_IN_index.mpd
 
 #EXTINF:-1 tvg-id="GalaxyTVHD" tvg-name="Galaxy TV HD" tvg-logo="https://bhoomtv.me/wp-content/uploads/2026/01/Neon-Kollywood-Plus-Logo-1-185x278.png" group-title="Galaxy Network" license_type="clearkey" license_key="3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a",Galaxy TV HD
-#EXTVLCOPT:http-referrer=https://nxliv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 #KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
-https://nxliv.com/snxt/proxy.php?url=https://livestream2.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_P_IN_index.mpd|Referer=https%3A//nxliv.com/&User-Agent=Mozilla/5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome/122.0.0.0%20Safari/537.36
+https://livestream2.sunnxt.com/803a6a4872a449a193b5846b5d101359/SunTVHD_P_IN_index.mpd
 
 #EXTINF:-1 tvg-id="AaryaaTV" tvg-name="Aaryaa TV" tvg-logo="https://bhoomtv.me/wp-content/uploads/2025/09/ChatGPT-Image-Mar-11-2026-11_28_56-PM-1-185x278.png" group-title="Tamil Entertainment",Aaryaa TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
