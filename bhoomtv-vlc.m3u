@@ -14,6 +14,11 @@ https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://yupp-tv.keralive.workers.dev/120723/smil:athavantv1.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="BTVHD" tvg-name="BTV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_10_07-AM-1-185x278.png" group-title="Tamil Entertainment",BTV HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live.applelive.in/boobsh/boobsh/index.m3u8
+
 #EXTINF:-1 tvg-id="BoxHD" tvg-name="Box HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/11/Neon-BOX-HD-Wallpaper-1-185x278.png" group-title="Tamil Entertainment",Box HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -154,6 +159,11 @@ https://proxy.b4uplay.com/http://livestream.rajtv.tv/hlslive/Admin/px08241087/li
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SalvationTV" tvg-name="Salvation TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Apr-30-2025-10_05_22-PM-185x278.png" group-title="Tamil Entertainment",Salvation TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://ktismaservers.in:3902/live/salvationtvlive.m3u8
+
 #EXTINF:-1 tvg-id="SirippoliTV" tvg-name="Sirippoli TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/ChatGPT-Image-Nov-4-2025-10_01_25-PM-1.png" group-title="Tamil Entertainment",Sirippoli TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -178,6 +188,11 @@ https://runn-tv.keralive.workers.dev/runntv/stream/suptam/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
+
+#EXTINF:-1 tvg-id="TNSETamil" tvg-name="TNSE Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_21_41-PM-1-185x278.png" group-title="Tamil Entertainment",TNSE Tamil
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://5790d294af2dc.streamlock.net/mchanneltv24/mchanneltv24/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TViHD" tvg-name="TVi HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2023/09/ChatGPT-Image-Apr-10-2025-11_20_52-AM-185x278.png" group-title="Tamil Entertainment",TVi HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -234,6 +249,11 @@ https://account33.livebox.co.in/7GREEN4Khls/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://annainew.livebox.co.in/7startvhls/livestream.m3u8
 
+#EXTINF:-1 tvg-id="A1MediaNews" tvg-name="A1 Media News" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-10_22_34-AM-1-185x278.png" group-title="Tamil Local TV",A1 Media News
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://golden-tv.keralive.workers.dev/live2/a1medianews/index.m3u8
+
 #EXTINF:-1 tvg-id="ATNTV" tvg-name="ATN TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-21-2026-12_13_06-PM-1-185x278.png" group-title="Tamil Local TV",ATN TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -253,11 +273,6 @@ https://ipcloud.live/sachintv/aadviktv/index.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://5dd3981940faa.streamlock.net/aalayamtv/aalayamtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AaryaaTV" tvg-name="Aaryaa TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Mar-11-2026-11_28_56-PM-1-185x278.png" group-title="Tamil Local TV",Aaryaa TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://stream.ottlive.co.in/aryatvtamil/index.m3u8
 
 #EXTINF:-1 tvg-id="AathiTV" tvg-name="Aathi TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_18_27-PM-1-185x278.png" group-title="Tamil Local TV",Aathi TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -294,20 +309,25 @@ https://web.applelive.in/stream/appletv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://dmtv.iptv.pics/live/dmtv/index.m3u8
 
-#EXTINF:-1 tvg-id="BrightSimroseTV" tvg-name="Bright Simrose TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-10_31_54-AM-1-185x278.png" group-title="Tamil Local TV",Bright Simrose TV
+#EXTINF:-1 tvg-id="AsokaTV" tvg-name="Asoka TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-03_50_28-PM-1-185x278.png" group-title="Tamil Local TV",Asoka TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://notvstream.in/brightsimrosetv/brightsimrosetv/index.m3u8
+https://ipcloud.live/asokatv/asokahd/index.m3u8
+
+#EXTINF:-1 tvg-id="BTVHD" tvg-name="BTV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Nov-8-2025-09_10_07-AM-1-185x278.png" group-title="Tamil Local TV",BTV HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live.applelive.in/boobsh/boobsh/index.m3u8
 
 #EXTINF:-1 tvg-id="CTN" tvg-name="CTN" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-13-2025-07_24_27-AM-2-185x278.png" group-title="Tamil Local TV",CTN
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://rtmp.bmlive.net/ctn/ctntn/stream.m3u8
 
-#EXTINF:-1 tvg-id="DarshanTV" tvg-name="Darshan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-12-2025-08_23_58-PM-1-185x278.png" group-title="Tamil Local TV",Darshan TV
+#EXTINF:-1 tvg-id="CholaTV" tvg-name="Chola TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-4-2026-07_02_21-PM-1-185x278.png" group-title="Tamil Local TV",Chola TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://galaxyott.live/hls/dharshantv.m3u8
+https://hlsstream.olidigital.in/cholatv/cholatv/index.m3u8?token=dHVsbml0X3N0ZWFsc19zaGl0
 
 #EXTINF:-1 tvg-id="DeviTV" tvg-name="Devi TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-29-2026-11_17_35-PM-1.png" group-title="Tamil Local TV",Devi TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -329,10 +349,10 @@ https://real-vk.proxy.nellaiiptv.com/DIAMONDTV/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://real-vk.proxy.nellaiiptv.com/DIAMONDTALKIES/index.m3u8
 
-#EXTINF:-1 tvg-id="DuraiMelodies" tvg-name="Durai Melodies" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/02/ChatGPT-Image-Feb-21-2026-12_04_57-PM-1-185x278.png" group-title="Tamil Local TV",Durai Melodies
+#EXTINF:-1 tvg-id="DureshTV" tvg-name="Duresh TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/11/DureshTV-Dynamic-Motion-Poster-1-185x278.png" group-title="Tamil Local TV",Duresh TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://stream.onecloudlive.in/duraitv/classic/index.m3u8
+https://mproxy.keralive.workers.dev/http://srvvii.nellaiiptv.com:8033/app-restream/e434f1-dureshtv/index.m3u8
 
 #EXTINF:-1 tvg-id="EETTV" tvg-name="EET TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2021/07/ChatGPT-Image-Apr-10-2025-01_28_23-PM-185x278.png" group-title="Tamil Local TV",EET TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -349,11 +369,6 @@ https://rtmp.bmlive.net/bms/eagletv/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://rtmp.bmlive.net/bms/emperortv/stream.m3u8
 
-#EXTINF:-1 tvg-id="EyeTVHD" tvg-name="Eye TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-24-2026-09_39_04-AM-1-185x278.png" group-title="Tamil Local TV",Eye TV HD
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://mproxy.keralive.workers.dev/http://eyetv.live.mystreams.in/live/eyetv/index.m3u8
-
 #EXTINF:-1 tvg-id="EyeTamil" tvg-name="Eye Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_55_53-AM-1-185x278.png" group-title="Tamil Local TV",Eye Tamil
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -369,10 +384,15 @@ https://stream.onecloudlive.in/forttv/fortchannel/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://gemtv.circle7stream.com/gem/fcce47a8559e30755582c396ce7fce9e.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GopuramTV" tvg-name="Gopuram TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-4-2026-11_20_49-PM-1.png" group-title="Tamil Local TV",Gopuram TV
+#EXTINF:-1 tvg-id="HarinTV" tvg-name="Harin TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_01_23-AM-1-185x278.png" group-title="Tamil Local TV",Harin TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gopuram.stream.onecloudlive.in/gopuram/gopuramhd/index.m3u8
+https://ipcloud.live/harintv/harintvhd/index.m3u8
+
+#EXTINF:-1 tvg-id="IdhayamKids" tvg-name="Idhayam Kids" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-20-2026-10_36_19-AM-1-185x278.png" group-title="Tamil Local TV",Idhayam Kids
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://sanplayout.xyz/live2/idhayamkidz/index.m3u8
 
 #EXTINF:-1 tvg-id="IrattaipaathaiTV" tvg-name="Irattaipaathai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-17-2025-06_56_29-AM-1-185x278.png" group-title="Tamil Local TV",Irattaipaathai TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -383,6 +403,11 @@ https://account31.livebox.co.in/IRATTAIPAATHAITVhls/live.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://ipcloud.live/jrptv/jrphd/index.m3u8
+
+#EXTINF:-1 tvg-id="JayamTVKarur" tvg-name="Jayam TV Karur" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-11-2025-04_07_30-PM-1-185x278.png" group-title="Tamil Local TV",Jayam TV Karur
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://view.rcserver.in/tmp_hls10/jayamtvkarur/index.m3u8
 
 #EXTINF:-1 tvg-id="JayamTVNamakkal" tvg-name="Jayam TV Namakkal" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-04_55_57-PM-1-185x278.png" group-title="Tamil Local TV",Jayam TV Namakkal
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -414,10 +439,10 @@ https://rtmp.bmlive.net/bms/kctv/stream.m3u8?origin=github.com/amazeyourself
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://web.applelive.in/stream/kktv/index.m3u8
 
-#EXTINF:-1 tvg-id="KhilaTV" tvg-name="Khila TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-24-2026-03_44_31-PM-1.png" group-title="Tamil Local TV",Khila TV
+#EXTINF:-1 tvg-id="KingTV" tvg-name="King TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-19-2025-10_03_39-PM-1-185x278.png" group-title="Tamil Local TV",King TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://phoenixcreations.keralive.workers.dev/gun/khilatv/khilatv/index.m3u8
+https://server.sscloud7.in/kingtv/kingtv/index.m3u8
 
 #EXTINF:-1 tvg-id="KingsTV" tvg-name="Kings TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/06/ChatGPT-Image-Jun-18-2026-11_27_49-AM-1-185x278.png" group-title="Tamil Local TV",Kings TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -444,20 +469,10 @@ https://app.xstream.onecloudlive.in/maduraiarasi/livestream/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://malartv-sscloud7-in.proxy.nellaiiptv.com/malartv/malartv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MangalamTVTirunelveli" tvg-name="Mangalam TV Tirunelveli" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/03/Vibrant-Mangalam-HD-logo-design-1-185x278.png" group-title="Tamil Local TV",Mangalam TV Tirunelveli
+#EXTINF:-1 tvg-id="ManasuTV" tvg-name="Manasu TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-25-2025-05_26_22-PM-1-185x278.png" group-title="Tamil Local TV",Manasu TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://phoenixcreations.keralive.workers.dev/mangalamtv/mangalamtv/mangalam/index.m3u8
-
-#EXTINF:-1 tvg-id="ManiwayTV" tvg-name="Maniway TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-08_11_15-PM-1-185x278.png" group-title="Tamil Local TV",Maniway TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live.singamcloud.in/bsctv/bsctv/index.m3u8
-
-#EXTINF:-1 tvg-id="MathaTV" tvg-name="Matha TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-31-2025-11_31_00-AM-1-185x278.png" group-title="Tamil Local TV",Matha TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live.mathatv.in/mathatv/mathatv/index.m3u8
+https://stream6.livebox.co.in/manasutvhls/live.m3u8
 
 #EXTINF:-1 tvg-id="MathiTV" tvg-name="Mathi TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-2-2026-09_59_56-PM-1-185x278.png" group-title="Tamil Local TV",Mathi TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -469,20 +484,35 @@ https://notvstream.in/mathitv/mathitv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://stream.onecloudlive.in/orange/ME24TAMIL/index.m3u8
 
-#EXTINF:-1 tvg-id="MeiAlaiTV" tvg-name="Mei Alai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-14-2026-07_54_49-AM-1.png" group-title="Tamil Local TV",Mei Alai TV
+#EXTINF:-1 tvg-id="MoonTVHD" tvg-name="Moon TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-May-11-2026-09_46_15-PM-1-185x278.png" group-title="Tamil Local TV",Moon TV HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://meialai.iptelevishion.com/meialai/2/index.m3u8
+https://live.sscloud7.in/live/moontv/index.m3u8
 
-#EXTINF:-1 tvg-id="NilaTV" tvg-name="Nila TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/NILATV-185x278.png" group-title="Tamil Local TV",Nila TV
+#EXTINF:-1 tvg-id="NachiyaaTV" tvg-name="Nachiyaa TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/11/nachiyaa-185x278.png" group-title="Tamil Local TV",Nachiyaa TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://live.olidigital.in/nilatv/nilatv/index.m3u8
+https://stream.onecloudlive.in/nachiyaatv/nachiyaahd/index.m3u8
+
+#EXTINF:-1 tvg-id="NijamTV" tvg-name="Nijam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/11/Glossy-Golden-Tamil-Logo-Poster-1-185x278.png" group-title="Tamil Local TV",Nijam TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://nijamtv.nijamtv.org/live/nijamtv/index.m3u8
+
+#EXTINF:-1 tvg-id="OliTVHD" tvg-name="Oli TV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/Tamil-TV-channel-logo-design-1-185x278.png" group-title="Tamil Local TV",Oli TV HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live.olidigital.in/olitv/olitv/index.m3u8
 
 #EXTINF:-1 tvg-id="OscarTV" tvg-name="Oscar TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-10-2025-12_52_23-PM-1-185x278.png" group-title="Tamil Local TV",Oscar TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://account21.livebox.co.in/oscartvhls/live.m3u8
+
+#EXTINF:-1 tvg-id="PCNChannelHD" tvg-name="PCN Channel HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-09_16_25-PM-1-185x278.png" group-title="Tamil Local TV",PCN Channel HD
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://pcntv.wmsdigital.in/hls/gtv/stream.m3u8
 
 #EXTINF:-1 tvg-id="PrimeTV" tvg-name="Prime TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-3-2025-09_55_35-PM-1-185x278.png" group-title="Tamil Local TV",Prime TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -494,6 +524,11 @@ https://live.applelive.in/primetv/primetv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://phoenixcreations.keralive.workers.dev/princetv/princetv/prince/index.m3u8
 
+#EXTINF:-1 tvg-id="PunnagaiDesamTV" tvg-name="Punnagai Desam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-25-2026-11_46_48-PM-1-185x278.png" group-title="Tamil Local TV",Punnagai Desam TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://phoenixcreations.keralive.workers.dev/punnagaidesamtv/punnagaidesamtv/punnagaidesamtv/index.m3u8
+
 #EXTINF:-1 tvg-id="RJTamilTV" tvg-name="RJ Tamil TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-27-2025-10_25_51-PM-1-185x278.png" group-title="Tamil Local TV",RJ Tamil TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -503,6 +538,11 @@ https://ipcloud.live/rjtamiltv/rjtamil/index.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://phoenixcreations.keralive.workers.dev/rktv/rktv/rktv/index.m3u8
+
+#EXTINF:-1 tvg-id="RaagamTV" tvg-name="Raagam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-18-2026-07_44_33-PM-1-185x278.png" group-title="Tamil Local TV",Raagam TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://stream.onecloudlive.in/raagamtv/raagamtvhd/index.m3u8
 
 #EXTINF:-1 tvg-id="RagaTV" tvg-name="Raga TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-07_42_23-AM-1-185x278.png" group-title="Tamil Local TV",Raga TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -524,10 +564,10 @@ https://sanplayout.xyz/live2/retromusichd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://srv-i.maduraiiptv.in/live/righttv-sd/index.m3u8
 
-#EXTINF:-1 tvg-id="SJSuryaTV" tvg-name="SJ Surya TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-10_30_06-AM-1-185x278.png" group-title="Tamil Local TV",SJ Surya TV
+#EXTINF:-1 tvg-id="SMediaPuducherry" tvg-name="S Media Puducherry" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/05/ChatGPT-Image-May-24-2026-10_43_10-AM-1-185x278.png" group-title="Tamil Local TV",S Media Puducherry
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ipcloud.live/nellaitv/suriyatv/index.m3u8
+https://smedia-tamil.keralive.workers.dev/riptv/live/S_MEDIA/index.m3u8
 
 #EXTINF:-1 tvg-id="SRMusixHD" tvg-name="SR Musix HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/07/ChatGPT-Image-Jul-10-2026-11_32_52-PM-1-185x278.png" group-title="Tamil Local TV",SR Musix HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -549,16 +589,6 @@ https://app.ashokadigital.net/app/74f6070c/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://live3.onecloudlive.in/sachintv/sarvikhd/index.m3u8
 
-#EXTINF:-1 tvg-id="SachinTVMusic" tvg-name="Sachin TV Music" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-21-2025-10_13_07-AM-1-185x278.png" group-title="Tamil Local TV",Sachin TV Music
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ipcloud.live/sachintv/musichd/index.m3u8
-
-#EXTINF:-1 tvg-id="SailamTV" tvg-name="Sailam TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-14-2025-06_16_10-PM-1-185x278.png" group-title="Tamil Local TV",Sailam TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://stream.onecloudlive.in/sailamtv/sailamtv/index.m3u8
-
 #EXTINF:-1 tvg-id="SanaPlusHD" tvg-name="Sana Plus HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Oct-18-2025-07_07_00-AM-1-185x278.png" group-title="Tamil Local TV",Sana Plus HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -569,30 +599,15 @@ https://mumbai-edge.smartplaytv.in/SanaPlusHD/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://stream.ottlive.co.in/sanatv/index.m3u8
 
-#EXTINF:-1 tvg-id="SarTV" tvg-name="Sar TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/Bold-and-vibrant-SAR-TV-logo-1-185x278.png" group-title="Tamil Local TV",Sar TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://phoenixcreations.keralive.workers.dev/sarplus/sarplus/sarplus/index.m3u8
-
-#EXTINF:-1 tvg-id="SasiTV" tvg-name="Sasi TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-13-2025-09_01_12-AM-1-185x278.png" group-title="Tamil Local TV",Sasi TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://phoenixcreations.keralive.workers.dev/sasitv/sasitv/sasitv/index.m3u8
-
-#EXTINF:-1 tvg-id="ShakthiChannel" tvg-name="Shakthi Channel" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/04/ChatGPT-Image-Apr-30-2026-10_11_32-AM-1-185x278.png" group-title="Tamil Local TV",Shakthi Channel
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cloudstream4k.com/shakthihd/bsk/playlist.m3u8
-
 #EXTINF:-1 tvg-id="ShaliniTV" tvg-name="Shalini TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/12/ChatGPT-Image-Dec-20-2025-10_30_43-AM-1-185x278.png" group-title="Tamil Local TV",Shalini TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://app.ashokadigital.net/app/55c65ef4/index.m3u8
 
-#EXTINF:-1 tvg-id="SkyPlusTV" tvg-name="Sky Plus TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/09/ChatGPT-Image-Sep-18-2025-06_24_40-PM-1-185x278.png" group-title="Tamil Local TV",Sky Plus TV
+#EXTINF:-1 tvg-id="SilverSatMedia" tvg-name="Silver Sat Media" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-30-2026-12_16_34-AM-1.png" group-title="Tamil Local TV",Silver Sat Media
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ipcloud.live/skytv/skytv/index.m3u8
+https://sanplayout.xyz/live2/silversatmedia/index.m3u8
 
 #EXTINF:-1 tvg-id="SpiceTV" tvg-name="Spice TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/08/ChatGPT-Image-Aug-29-2026-11_48_00-PM-1.png" group-title="Tamil Local TV",Spice TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -624,6 +639,11 @@ https://stream.ottlive.co.in/subintvtamil/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://stream.ottlive.co.in/suryatvtamil/index.m3u8
 
+#EXTINF:-1 tvg-id="SuriyanTV" tvg-name="Suriyan TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/ChatGPT-Image-Nov-11-2025-03_56_21-PM-1-185x278.png" group-title="Tamil Local TV",Suriyan TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://view.rcserver.in/tmp_hls9/suriyantv/index.m3u8
+
 #EXTINF:-1 tvg-id="TNSETamil" tvg-name="TNSE Tamil" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/01/ChatGPT-Image-Jan-26-2026-01_21_41-PM-1-185x278.png" group-title="Tamil Local TV",TNSE Tamil
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -654,6 +674,11 @@ https://streaming.livebox.co.in/tharunmovieshls/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://phoenixcreations.keralive.workers.dev/almthendraltv/almthendraltv/almthendraltv/index.m3u8
 
+#EXTINF:-1 tvg-id="TimeTV" tvg-name="Time TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_53_23-AM-1-185x278.png" group-title="Tamil Local TV",Time TV
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live.olidigital.in/timetv/timetv/index.m3u8
+
 #EXTINF:-1 tvg-id="UTVHD" tvg-name="UTV HD" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/04/ChatGPT-Image-Mar-11-2026-11_27_27-PM-1-185x278.png" group-title="Tamil Local TV",UTV HD
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -668,6 +693,11 @@ https://hlsstream.olidigital.in/vtv/vtv/index.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://app.ashokadigital.net/app/89c09acf/index.m3u8
+
+#EXTINF:-1 tvg-id="VTVEntertainment" tvg-name="VTV Entertainment" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/11/Neon-VTV-Entertainment-Logo-1-185x278.png" group-title="Tamil Local TV",VTV Entertainment
+#EXTVLCOPT:http-referrer=https://bhoomtv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://live-stream.in/vtv/vtv/index.m3u8
 
 #EXTINF:-1 tvg-id="VaagaiTV" tvg-name="Vaagai TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2026/08/ChatGPT-Image-Aug-29-2026-11_54_50-PM-1.png" group-title="Tamil Local TV",Vaagai TV
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
@@ -709,16 +739,6 @@ https://cdn.smartstream.video/smartstream-us/velichamtv/velichamtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://app.ashokadigital.net/app/9d60f10e/index.m3u8
 
-#EXTINF:-1 tvg-id="WEBadugaTV" tvg-name="WE Baduga TV" tvg-logo="https://bhoomtv.org/wp-content/uploads/2025/10/ChatGPT-Image-Oct-8-2025-08_57_40-AM-1-185x278.png" group-title="Tamil Local TV",WE Baduga TV
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://rtmp.bmlive.net/webaduga/webaduga/stream.m3u8
-
-#EXTINF:-1 tvg-id="MNaduNews" tvg-name="MNadu News" tvg-logo="https://bhoomtv.org/wp-content/uploads/2023/05/Glossy-Red-M-Nadu-Neon-Logo-1-185x278.png" group-title="Tamil News",MNadu News
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://cloudcdnplayer.mslivestream.net/mslivecdn/mnadu/chunks.m3u8
-
 #EXTINF:-1 tvg-id="News18Tamilnadu" tvg-name="News 18 Tamilnadu" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/Dynamic-Tamil-News-18-Broadcast-Logo-185x278.png" group-title="Tamil News",News 18 Tamilnadu
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
@@ -733,11 +753,6 @@ https://stream.ottlive.co.in/newstamil/index.m3u8
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="PolimerNews" tvg-name="Polimer News" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/Vibrant-Polimer-News-Broadcast-Badge-1-185x278.png" group-title="Tamil News",Polimer News
-#EXTVLCOPT:http-referrer=https://bhoomtv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PuthiyaThalaimurai" tvg-name="Puthiya Thalaimurai" tvg-logo="https://bhoomtv.org/wp-content/uploads/2020/01/Neon-Tamil-News-Channel-Branding-1-185x278.png" group-title="Tamil News",Puthiya Thalaimurai
 #EXTVLCOPT:http-referrer=https://bhoomtv.me/
